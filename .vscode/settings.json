@@ -1,19 +1,17 @@
-.vscode/settings.json
 {
   "editor.tabSize": 2,
-  "editor.rulers": [90, 140],
+  "editor.rulers": [
+    90,
+    140
+  ],
   "files.trimTrailingWhitespace": true,
   "files.autoSave": "onFocusChange",
   "editor.cursorBlinking": "solid",
-  "workbench.iconTheme": "material-icon-theme", // Following setting
-requires Material Icon
-Theme Extension
+  "workbench.iconTheme": "material-icon-theme", // Following setting requires Material Icon Theme Extension
   "git.enableSmartCommit": true,
   "editor.autoIndent": true,
   "debug.openExplorerOnEnd": true,
-  "auto-close-tag.SublimeText3Mode": true,      // Following setting
-requires Auto Close Tag
-Extension
+  "auto-close-tag.SublimeText3Mode": true, // Following setting requires Auto Close Tag Extension
   "explorer.openEditors.visible": 0,
   "editor.minimap.enabled": false,
   "html.autoClosingTags": false,
@@ -21,13 +19,10 @@ Extension
   "editor.formatOnType": true,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "prettier.printWidth": 90,                 // Following setting requires
-Prettier Extension
+  "prettier.printWidth": 90, // Following setting requires Prettier Extension
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
-  "typescriptHero.imports.insertSemicolons": false, // Following setting
-requires TypeScriptHero
-Extension
+  "typescriptHero.imports.insertSemicolons": false, // Following setting requires TypeScriptHero Extension
   "typescriptHero.imports.multiLineWrapThreshold": 90,
 }
